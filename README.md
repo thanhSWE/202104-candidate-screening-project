@@ -4,16 +4,18 @@ In order to be selected to the next round of the interview process, the candidat
 this project with the following requirements. 
 
 ## Feature Requirements
-Follow this tutorial to create a todo application: https://www.educative.io/blog/react-hooks-tutorial-todo-list.
-Add an ability to create a due date for each task. The end user should be able to pick or enter
-a date for each todo item. Show off your design skill to make it easy and intuitive for user to use your app
+Follow this tutorial to create a todo application: https://www.educative.io/blog/react-hooks-tutorial-todo-list with two additional requirements: 
+1. Add an ability to create a due date for each task. The end user should be able to pick or enter a date for each todo item. 
+2. Store the todos using a backend and a database of your choice.
+
+Show off your design skill to make it easy and intuitive for user to use your app
 
 ## Technical Requirements
 1. Fork this project to your account in Github, 
    for example (https://github.com/your-username/202104-candidate-screening-project)
    and use it as your submission
 1. Add [aduyng@gmail.com](aduyng@gmail.com) as a collaborator of the new project
-1. Complete the project on or before May 3rd, 2021 at 11:59 PM CST. Once completed, 
+1. Complete the project on or before the assigned deadline. Once completed, 
    send an email to [aduyng@gmail.com](aduyng@gmail.com)
    with the subject "I completed my project". In the body of the email provide your name, the URL to the forked project 
    on github. 
