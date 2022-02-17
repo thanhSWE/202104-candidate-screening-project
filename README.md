@@ -1,4 +1,4 @@
-# Apr 2021 Candidate Screening Project
+# Candidate Screening Project
 
 In order to be selected to the next round of the interview process, the candidate needs to complete 
 this project with the following requirements. 
@@ -15,16 +15,16 @@ Show off your design skill to make it easy and intuitive for user to use your ap
    for example (https://github.com/your-username/202104-candidate-screening-project)
    and use it as your submission
 1. Add [aduyng@gmail.com](aduyng@gmail.com) as a collaborator of the new project
-1. Complete the project on or before the assigned deadline. Once completed, 
-   send an email to [aduyng@gmail.com](aduyng@gmail.com)
-   with the subject "I completed my project". In the body of the email provide your name, the URL to the forked project 
-   on github. 
 1. Use https://github.com/facebook/create-react-app to create a new project in Javascript
 1. Integrate https://material-ui.com/ to this project and use it as the UI framework
 1. Using jest (according to this tutorial: https://jestjs.io/docs/tutorial-react) to write unit tests (only snapshot 
    testing is required) for your application and ensure 100% code coverage
 1. Integrate Testcafe from https://testcafe.io/ and write the automation test cases to test 
 your application. Make sure that you write all test cases to cover the entire functionalities.
+1. Complete the project on or before the assigned deadline. Once completed, 
+   send an email to [aduyng@gmail.com](aduyng@gmail.com)
+   with the subject "I completed my project". In the body of the email provide your name, the URL to the forked project 
+   on github. 
 
 ## Evaluation Factors
 The most importance judging factors is on top. 
