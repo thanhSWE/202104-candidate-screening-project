@@ -4,19 +4,20 @@ In order to be selected to the next round of the interview process, the candidat
 this project with the following requirements. 
 
 ## Feature Requirements
-Follow this tutorial to create a todo application: https://www.educative.io/blog/react-hooks-tutorial-todo-list with two additional requirements: 
-1. Add an ability to create a due date for each task. The end user should be able to pick or enter a date for each todo item. 
-2. Store the todos using a NodeJS backend and a database of your choice.
+Follow this tutorial to create a shopping list application: https://www.freecodecamp.org/news/how-to-build-a-shopping-list-using-react-hooks-w-starter-code-and-video-walkthrough/ with three additional requirements: 
+1. Completed item quantities should not be counted in total.
+2. Prevent the end-user from entering duplicate item name.
+2. Store the todos using a NodeJS backend and a database of your choice
 
-Show off your design skill to make it easy and intuitive for user to use your app
+Show off your design skills to make it easy and intuitive for user to use your app
 
 ## Technical Requirements
 1. Fork this project to your account in Github, 
    for example (https://github.com/your-username/202104-candidate-screening-project)
    and use it as your submission
-1. Add [aduyng@gmail.com](aduyng@gmail.com) as a collaborator of the new project
+1. Add [aduyng@gmail.com](aduyng@gmail.com) as a collaborator of the new project (so that I can read your code)
 1. Use https://github.com/facebook/create-react-app to create a new project in Javascript
-1. Integrate https://material-ui.com/ to this project and use it as the UI framework
+1. Integrate https://mui.com/ to this project and use it as the UI framework
 1. Using jest (according to this tutorial: https://jestjs.io/docs/tutorial-react) to write unit tests (only snapshot 
    testing is required) for your application and ensure 100% code coverage
 1. Integrate Testcafe from https://testcafe.io/ and write the automation test cases to test 
